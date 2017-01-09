@@ -1,0 +1,18 @@
+<div class="row">
+ <div class="col-sm-4 col-sm-push-3 well">
+   <h1>Логин</h1>
+   <form name="loginForm" ng-submit="doLogin(loginForm)">
+   
+    <div class="form-group">
+      <input type="email" name="email" ng-model="login.username" required placeholder ="Введите вашу почту" class="form-control">
+    </div>
+
+    <div class="form-group">
+      <input type="password" name="password" ng-model="login.password" required placeholder="Введите ваш пароль" class="form-control">
+    </div>
+
+    <input type="submit" name="save" value="Войти"  class="btn btn-success">
+    </form>
+
+ </div>
+</div>

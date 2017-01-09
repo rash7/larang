@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAEA;EAGC,kBAAkB,EAEL;;AAId;EACC,gBAAgB,EAChB","file":"app.css","sourcesContent":["// @import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\";\n\n.navbar {\n.make-active {\n\t\n\tfont-weight: bold;\n\n             }\n\n}\n\n.gallery-container {\n\tcursor: pointer;\n}"],"sourceRoot":"/source/"}
